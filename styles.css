@@ -53,3 +53,8 @@ section article{
     margin: 15px;
     font-size: 0.96em
 }
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
